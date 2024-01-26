@@ -4,7 +4,7 @@ SpaceTode`
         colour "#006eff"
         category "Custom"
         maybe(1/2) {
-            given A (element) => element !== bluonium
+            given A (element) => element.state > SOLID && element.state !== EFFECT && element != bluonium
             
             @A => .@
         }
