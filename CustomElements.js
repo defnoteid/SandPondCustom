@@ -7,7 +7,7 @@ SpaceTode`
             @ => _
             _    @
         }
-        for(xy) {
+        for(xz) {
             @. => _.
             ._    .@
         }
