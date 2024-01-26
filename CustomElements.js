@@ -6,7 +6,9 @@ SpaceTode`
         maybe(1/2) {
             given A (element) => element.state > SOLID && element.state !== EFFECT && element != bluonium
             
-            @A => .@
+            for(xz) {
+                @A => .@
+            }
         }
 
         mimic(Powder)
