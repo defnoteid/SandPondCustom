@@ -3,13 +3,10 @@ SpaceTode`
         prop state SOLID
         colour "#006eff"
         category "Custom"
-        rule {
-            @ => _
-            _    @
-        }
-        for(xz) {
-            @. => _.
-            #_    .@
+        maybe(1/2) {
+            given A (element) => element !== bluonium
+            
+            @A => .@
         }
 
         mimic(Powder)
