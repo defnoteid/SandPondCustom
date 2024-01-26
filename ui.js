@@ -735,8 +735,9 @@ let secretMessageTimer = 0
 		//if (UI.selectedReality == "nonvr") params += "nonvr&"
 		//else if (UI.selectedReality == "vr") params += "vr&"
 		params += UI.floorTypeOption
-		const baseUrl = 'https://htmlpreview.github.io/?https://github.com/defnoteid/SandPondCustom/blob/main/index.html'//`${window.location.protocol}//${window.location.host}${window.location.pathname}`
-		window.location = `${baseUrl}?${params}`
+		//const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`
+		//window.location = `${baseUrl}?${params}`
+		window.location = `https://htmlpreview.github.io/?https://github.com/defnoteid/SandPondCustom/blob/main/index.html?${params}`
 	})
 	
 	$$(".sizeOption").on.click(function() {
