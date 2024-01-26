@@ -737,7 +737,7 @@ let secretMessageTimer = 0
 		params += UI.floorTypeOption
 		//const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`
 		//window.location = `${baseUrl}?${params}`
-		window.alert("Unfortunately it is broken, append this to the url:")
+		window.alert("Unfortunately it is broken, and I don't host a website.\nPlease append the following to the url:")
 		window.alert(`?${params}`)
 	})
 	
