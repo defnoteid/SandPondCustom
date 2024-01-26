@@ -737,7 +737,8 @@ let secretMessageTimer = 0
 		params += UI.floorTypeOption
 		//const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`
 		//window.location = `${baseUrl}?${params}`
-		window.location = `https://htmlpreview.github.io/?https://github.com/defnoteid/SandPondCustom/blob/main/index.html?${params}`
+		window.alert("Unfortunately it is broken, append this to the url:")
+		window.alert(`?${params}`)
 	})
 	
 	$$(".sizeOption").on.click(function() {
