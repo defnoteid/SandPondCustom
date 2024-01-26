@@ -1,7 +1,7 @@
 SpaceTode`
-    element dne_element {
+    element bluonium {
         prop state SOLID
-        colour "blue"
+        colour "#006eff"
         category "Custom"
         rule {
             @ => _
