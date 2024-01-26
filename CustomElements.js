@@ -11,5 +11,7 @@ SpaceTode`
             @. => _.
             #_    .@
         }
+
+        mimic(Powder)
     }
 `
