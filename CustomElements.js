@@ -1,7 +1,14 @@
 SpaceTode`
-    element Atominin {
+    element dne_element {
+        prop state SOLID
         colour "blue"
-        @ => _
-        _    @
+        rule {
+            @ => _
+            _    @
+        }
+        for(xy) {
+            @. => _.
+            ._    .@
+        }
     }
 `
