@@ -5,7 +5,8 @@
 
 > [!IMPORTANT]
 > Changing modes will not reload SandPond.<br>
-> I don't host a GitHub Page for defnoteid/SandPondCustom.
+> I don't host a GitHub Page for defnoteid/SandPondCustom.<br>
+> You should manually append the custom parameters onto the url. ex: `https://htmlpreview.github.io/?https://github.com/defnoteid/SandPondCustom/blob/main/index.html?2d&cube`
 
 ><img align="right" height="100" src="http://img.todepond.com/IMG/SandPond@0.25x.png">
 >
