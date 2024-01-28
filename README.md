@@ -1,7 +1,11 @@
-> [!IMPORTANT]
+> [!NOTE]
 > # GO READ THE ORIGINAL RESPORITORY
 > **I did not create the original, this is just a fork. Go to [the original](https://github.com/TodePond/SandPond) now.**<br>
 > I'm using this to create custom elements. :trollface:
+
+> [!IMPORTANT]
+> Changing modes will not reload SandPond.<br>
+> I don't host a GitHub Page for defnoteid/SandPondCustom.
 
 ><img align="right" height="100" src="http://img.todepond.com/IMG/SandPond@0.25x.png">
 >
@@ -22,7 +26,7 @@
 >So... the rule makes the atom fall down if there's an empty space below it.<br>
 >
 >## Try it out
->Try it out <!--at [www.sandpond.cool](http://www.sandpond.cool)-->[via this link](https://htmlpreview.github.io/?https://github.com/defnoteid/SandPondCustom/blob/main/index.html).<br>
+Try it out <!--at [www.sandpond.cool](http://www.sandpond.cool)-->[via this link](https://htmlpreview.github.io/?https://github.com/defnoteid/SandPondCustom/blob/main/index.html).<br>
 ><!--Or [download](https://github.com/l2wilson94/SandPond/archive/main.zip) it and open `index.html` in a browser.<br>-->
 >
 >## Make your own element
